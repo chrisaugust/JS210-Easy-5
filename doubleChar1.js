@@ -6,7 +6,7 @@
 // repeater('Hello');        // "HHeelllloo"
 // repeater('Good job!');    // "GGoooodd  jjoobb!!"
 // repeater('');             // ""
-// 
+//
 // DATA STRUCTURES
 // String -> Array -> String
 //
